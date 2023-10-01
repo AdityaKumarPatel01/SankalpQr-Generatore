@@ -1,0 +1,1 @@
+# SankalpQr-Generatore
